@@ -55,7 +55,7 @@ greet("Geek")
 ## 七、链接与图片
 
 - [Markdown 官方指南](https://www.markdownguide.org/)
-- 图片语法示例：！[示例](https://www.gstatic.com/webp/gallery/1.jpg)
+- 图片语法示例：![示例](https://www.gstatic.com/webp/gallery/1.jpg)
 
 ---
 
